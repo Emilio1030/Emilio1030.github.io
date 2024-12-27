@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emílio Aguiar</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Emílio Aguiar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education &amp; Certifications</title>
+      <link>//localhost:1313/education/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/education/</guid>
+      <description>&lt;h2 id=&#34;education&#34;&gt;&#xA;  Education&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#education&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h3 id=&#34;bootcamp-in-data-science--le-wagon&#34;&gt;&#xA;  Bootcamp in Data Science | Le Wagon&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#bootcamp-in-data-science--le-wagon&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2022&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Bootcamp has taught the following subjects, machine learning (supervised &amp;amp; unsupervised learning) and deep learning (&lt;strong&gt;CNN&lt;/strong&gt;, &lt;strong&gt;RNN&lt;/strong&gt; &amp;amp; &lt;strong&gt;NLP&lt;/strong&gt;) model with Python. Collecting and analysing data from &lt;strong&gt;APIs&lt;/strong&gt;, &lt;strong&gt;Jupyter Notebook&lt;/strong&gt;, and &lt;strong&gt;SQL&lt;/strong&gt; (including an introduction to &lt;strong&gt;Google Big Query&lt;/strong&gt; and &lt;strong&gt;Cloud Storage&lt;/strong&gt;).&lt;/li&gt;&#xA;&lt;li&gt;Analytics using packages; &lt;strong&gt;NumPy&lt;/strong&gt;, &lt;strong&gt;Pandas&lt;/strong&gt;, &lt;strong&gt;Seaborn&lt;/strong&gt;, &lt;strong&gt;Matplotlib&lt;/strong&gt;, &lt;strong&gt;Scikit-learn&lt;/strong&gt;, &lt;strong&gt;TensorFlow&lt;/strong&gt; &amp;amp; &lt;strong&gt;Keras&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h3 id=&#34;masters-in-actuarial-science--university-of-lisbon-iseg&#34;&gt;&#xA;  Master’s in Actuarial Science | University of Lisbon, ISEG&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#masters-in-actuarial-science--university-of-lisbon-iseg&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2016 - 2020&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>//localhost:1313/experience/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/experience/</guid>
+      <description>&lt;h3 id=&#34;insurance-and-pension-funds-supervisory-authority-asf--actuary&#34;&gt;&#xA;  Insurance and Pension Funds Supervisory Authority (ASF) | Actuary&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#insurance-and-pension-funds-supervisory-authority-asf--actuary&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2023/04 - Present&lt;/em&gt;&lt;/p&gt;&#xA;&#xA;&lt;h4 id=&#34;responsibilities&#34;&gt;&#xA;  Responsibilities&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#responsibilities&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Conducted actuarial analyses for life and non-life insurance companies, ensuring prudent SCR determination to cover market-consistent losses in compliance with Solvency II and IFRS 17 frameworks.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed two productivity-enhancing applications:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://akaquery.streamlit.app/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AKAquery&lt;/a&gt;: A tool for legislative consultations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://akabrief.streamlit.app/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AKAbrief&lt;/a&gt;: A document summarization platform.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Actively contributed to the IFRS17 financial impact study for Portugal’s insurance sector, ensuring timely project deliveries.&lt;/li&gt;&#xA;&lt;li&gt;Conducted a comprehensive analysis of the expanded contractual limits for renewable term life insurance (ART/TAR), assessing&#xA;the impact on SCR through a thorough examination of assumptions and methodologies.&lt;/li&gt;&#xA;&lt;li&gt;Performed an audit for the Economic Scenario Generator (ESG) to analyze the BE of savings products, focusing on TVOG, and&#xA;shocks (SCRs). Developed a Python-based model to validate the BE cash flows, ensuring the ESG methodology, calibration&#xA;process, and results were market-consistent, risk-neutral, and aligned with the risk-free interest rate term structure.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h3 id=&#34;lusitania-vida--actuary-associated&#34;&gt;&#xA;  Lusitania Vida | Actuary Associated&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#lusitania-vida--actuary-associated&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2021/10 - 2023/04&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interests</title>
+      <link>//localhost:1313/interests/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/interests/</guid>
+      <description>&lt;p&gt;I enjoys reading Stephen King novels and 60s science fiction, researching lost &amp;amp; unknown music over at &lt;a href=&#34;https://reddit.com/r/lostwave&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;r/lostwave&lt;/a&gt;, training gymnastics, and going for wine and beer tasting around Stellenbosch, South Africa.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am an actuary with strong experience in machine learning, Solvency II, and IFRS 17.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coming Soon</title>
+      <link>//localhost:1313/portfolio/placeholder/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/portfolio/placeholder/</guid>
+      <description>&lt;p&gt;Blog posts are coming soon!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;p&gt;I would love to connect! You can reach out to me through &lt;a href=&#34;https://github.com/patrickm663&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; or &lt;a href=&#34;https://linkedin.com/in/patrick-moehrke-05b09ab3&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt;. Alternatively, send me a message below:&lt;/p&gt;&#xA;&#xA;&lt;/br&gt;&#xA;&lt;script type=&#34;text/javascript&#34; src=&#34;https://unpkg.com/tailwindcss-jit-cdn&#34;&gt;&lt;/script&gt;&#xA;&lt;script src=&#34;//localhost:1313/js/custom.js&#34;&gt;&lt;/script&gt;&#xA;  &lt;body onload=&#34;getVisitorCount()&#34;&gt;&#xA;  &lt;div class=&#34;mb-3 pt-0&#34;&gt;&#xA;    &lt;input type=&#34;text&#34; placeholder=&#34;Your name&#34; name=&#34;name&#34; id=&#34;name&#34; class=&#34;px-3 py-3 placeholder-gray-400 text-gray-600 relative bg-white bg-white rounded text-sm border-0 shadow outline-none focus:outline-none focus:ring w-full&#34; required /&gt;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;div class=&#34;mb-3 pt-0&#34;&gt;&#xA;    &lt;input&#xA;      type=&#34;email&#34;&#xA;      id=&#34;email&#34;&#xA;      placeholder=&#34;Email&#34;&#xA;      name=&#34;email&#34;&#xA;      class=&#34;px-3 py-3 placeholder-gray-400 text-gray-600 relative bg-white bg-white rounded text-sm border-0 shadow outline-none focus:outline-none focus:ring w-full&#34;&#xA;      required&#xA;    /&gt;&#xA;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;mb-3 pt-0&#34;&gt;&#xA;    &lt;input&#xA;      placeholder=&#34;Subject&#34;&#xA;      name=&#34;subject&#34;&#xA;      id=&#34;subject&#34;&#xA;      class=&#34;px-3 py-3 placeholder-gray-400 text-gray-600 relative bg-white bg-white rounded text-sm border-0 shadow outline-none focus:outline-none focus:ring w-full&#34;&#xA;      required&#xA;    /&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;mb-3 pt-0&#34;&gt;&#xA;    &lt;textarea&#xA;      placeholder=&#34;Your message&#34;&#xA;      name=&#34;message&#34;&#xA;      id=&#34;message&#34;&#xA;      class=&#34;px-3 py-3 placeholder-gray-400 text-gray-600 relative bg-white bg-white rounded text-sm border-0 shadow outline-none focus:outline-none focus:ring w-full&#34;&#xA;      required&#xA;    &gt;&lt;/textarea&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;div class=&#34;mb-3 pt-0&#34;&gt;&#xA;&#xA;    &lt;button&#xA;&#xA;      class=&#34;bg-blue-500 text-white active:bg-blue-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150&#34;&#xA;&#xA;onclick=&#34;sendMessage(document.getElementById(&#39;name&#39;).value, document.getElementById(&#39;email&#39;).value, document.getElementById(&#39;subject&#39;).value, document.getElementById(&#39;message&#39;).value)&#34;&#xA;      type=&#34;submit&#34;&#xA;      id=&#34;submit&#34;&#xA;    &gt;Send a message&lt;/button&gt;&#xA;&#xA;  &lt;/div&gt;&#xA;  &lt;br/&gt;&#xA;  &lt;p id=&#34;visitors&#34; class=&#34;text-center&#34;&gt;Visitor Count: &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

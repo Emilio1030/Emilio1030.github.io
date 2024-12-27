@@ -1,0 +1,6 @@
+{{ define "title" }}
+  {{- if eq .Kind "term" -}}
+    {{- htmlEscape (i18n .Data.Plural | title) }}:
+  {{- end -}}
+  {{- htmlEscape (i18n (lower .Title) | default .Title | title) }} · {{ htmlEscape .Site.Title }}
+{{ end }}

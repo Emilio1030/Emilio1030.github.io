@@ -1,0 +1,83 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Emílio Aguiar'
+theme = 'hugo-coder.'
+
+defaultContentLanguage = "en"
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+
+[pagination]
+pagerSize = 10
+
+[params]
+isServer = true
+
+author = "Emílio Aguiar"
+license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+description = "Emílio Aguiar's portfolio site"
+keywords = "blog,developer,personal"
+info = ["Actuary | Data Analist "]
+avatarURL = "img/emilio.jpg"
+gavatar = "patrick@patrickmoehrke.com"
+dateFormat = "January 2, 2006"
+since = 2024
+rtl = false
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+# Series see also post count
+maxSeeAlsoItems = 5
+# Custom CSS
+customCSS = []
+# Custom SCSS
+customSCSS = []
+# Custom JS
+customJS = ["js/custom.js"]
+commit = "https://github.com/Emilio1030/emilio-web/tree"
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/Emilio1030/emilio-web"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 2
+url = "https://www.linkedin.com/in/emilioaguiar/"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+[[menu.main]]
+name = "Experience"
+weight = 2
+url = "experience/"
+[[menu.main]]
+name = "Education & Certifications"
+weight = 3
+url = "education/"
+[[menu.main]]
+name = "Posts"
+weight = 4
+url = "Posts/"
+[[menu.main]]
+name = "Interests"
+weight = 5
+url = "interests/"
+[[menu.main]]
+name = "Contact"
+weight = 6
+url = "contact/"
