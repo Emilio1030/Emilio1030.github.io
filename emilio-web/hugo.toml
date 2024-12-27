@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Emílio Aguiar'
 theme = 'hugo-coder.'
 
+
 defaultContentLanguage = "en"
 paginate = 20
 pygmentsStyle = "bw"
