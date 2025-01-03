@@ -1,10 +1,10 @@
-+++
+<!-- +++
 title = "Contact"
 date = 2023-07-01
-author = "Patrick Moehrke"
+author = "Emílio Aguiar"
 +++
 
-I would love to connect! You can reach out to me through [GitHub](https://github.com/patrickm663) or [LinkedIn](https://linkedin.com/in/patrick-moehrke-05b09ab3). Alternatively, send me a message below:
+I would love to connect! You can reach out to me through [GitHub](https://github.com/Emilio1030) or [LinkedIn](https://www.linkedin.com/in/emilioaguiar/). Alternatively, send me a message below:
 
 
 {{< rawhtml >}}
@@ -16,7 +16,6 @@ I would love to connect! You can reach out to me through [GitHub](https://github
     <input type="text" placeholder="Your name" name="name" id="name" class="px-3 py-3 placeholder-gray-400 text-gray-600 relative bg-white bg-white rounded text-sm border-0 shadow outline-none focus:outline-none focus:ring w-full" required />
 
   </div>
-
   <div class="mb-3 pt-0">
     <input
       type="email"
@@ -50,7 +49,6 @@ I would love to connect! You can reach out to me through [GitHub](https://github
   <div class="mb-3 pt-0">
 
     <button
-
       class="bg-blue-500 text-white active:bg-blue-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
 
 onclick="sendMessage(document.getElementById('name').value, document.getElementById('email').value, document.getElementById('subject').value, document.getElementById('message').value)"
@@ -63,4 +61,4 @@ onclick="sendMessage(document.getElementById('name').value, document.getElementB
   <p id="visitors" class="text-center">Visitor Count: </p>
   </body>
 
-{{< /rawhtml >}}
+{{< /rawhtml >}} -->

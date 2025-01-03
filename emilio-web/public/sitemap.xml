@@ -11,26 +11,34 @@
     <loc>//localhost:1313/experience/</loc>
     <lastmod>2024-12-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/posts/akabrief/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/akaquery/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/interests/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/posts/creditdefaultmodel/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/about/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/portfolio/placeholder/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/contact/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/portfolio/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/authors/patrick-moehrke/</loc>
+    <loc>//localhost:1313/authors/emilio-aguiar/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/solarforecasting/</loc>
+    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/contact/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>

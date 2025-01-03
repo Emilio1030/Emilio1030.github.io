@@ -1,8 +1,7 @@
-baseURL = ''
+baseURL = ""
 languageCode = 'en-us'
 title = 'Emílio Aguiar'
 theme = 'hugo-coder.'
-
 
 defaultContentLanguage = "en"
 paginate = 20
@@ -17,12 +16,13 @@ pagerSize = 10
 [params]
 isServer = true
 
+
 author = "Emílio Aguiar"
 license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Emílio Aguiar's portfolio site"
 keywords = "blog,developer,personal"
-info = ["Actuary | Data Analist "]
-avatarURL = "img/emilio.jpg"
+info = ["Actuary | Data Analyst "]
+avatarURL = "img/emilio_v2.jpg"
 gavatar = "patrick@patrickmoehrke.com"
 dateFormat = "January 2, 2006"
 since = 2024
@@ -58,8 +58,14 @@ icon = "fa fa-2x fa-linkedin"
 weight = 2
 url = "https://www.linkedin.com/in/emilioaguiar/"
 
+[[params.social]]
+name = "Email"
+icon = "fa fa-2x fa-envelope"
+weight = 3
+url = "mailto:junioraguiar_83@hotmail.com"
+
 [[menu.main]]
-name = "About"
+name = "Bio"
 weight = 1
 url = "about/"
 [[menu.main]]
@@ -71,14 +77,11 @@ name = "Education & Certifications"
 weight = 3
 url = "education/"
 [[menu.main]]
-name = "Posts"
+name = "Projects"
 weight = 4
 url = "Posts/"
+
 [[menu.main]]
 name = "Interests"
 weight = 5
 url = "interests/"
-[[menu.main]]
-name = "Contact"
-weight = 6
-url = "contact/"

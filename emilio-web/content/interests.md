@@ -1,7 +1,9 @@
 +++
 title = "Interests"
 date = 2023-08-15
-author = "Patrick Moehrke"
+author = "Emílio Aguiar"
 +++
 
-I enjoys reading Stephen King novels and 60s science fiction, researching lost & unknown music over at [r/lostwave](https://reddit.com/r/lostwave), training gymnastics, and going for wine and beer tasting around Stellenbosch, South Africa.
+I enjoy hitting the gym every day and reading about polictics, economics and psychology.
+
+Check out my Goodreads page [here](https://www.goodreads.com/user/show/185718623-emilio-aguiar)
