@@ -10,9 +10,9 @@
     <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Authors of Posts</title>
-      <link>//localhost:1313/authors/patrick-moehrke/</link>
+      <link>//localhost:1313/authors/emilio-aguiar/</link>
       <pubDate>Thu, 05 Jan 2023 01:15:29 +0100</pubDate>
-      <guid>//localhost:1313/authors/patrick-moehrke/</guid>
+      <guid>//localhost:1313/authors/emilio-aguiar/</guid>
       <description></description>
     </item>
   </channel>

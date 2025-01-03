@@ -305,6 +305,11 @@ template {
 [hidden] {
   display: none; }
 
+a img:hover {
+  transform: scale(1.1) !important;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3) !important;
+  transition: transform 0.3s ease, box-shadow 0.3s ease !important; }
+
 /*!
 Fork Awesome 1.2.0
 License - https://forkaweso.me/Fork-Awesome/license
