@@ -15,6 +15,9 @@ pagerSize = 10
 
 [params]
 isServer = true
+[permalinks]
+post = "/posts/:slug/"
+
 
 author = "Emílio Aguiar"
 license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
