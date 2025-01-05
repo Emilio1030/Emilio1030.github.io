@@ -78,7 +78,7 @@ url = "education/"
 [[menu.main]]
 name = "Projects"
 weight = 4
-url = "Posts/"
+url = "posts/"
 
 [[menu.main]]
 name = "Interests"
