@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Emílio Aguiar</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Emílio Aguiar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LLM Project | AKAbrief</title>
-      <link>//localhost:1313/posts/akabrief/</link>
+      <link>http://localhost:1313/posts/akabrief/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/akabrief/</guid>
+      <guid>http://localhost:1313/posts/akabrief/</guid>
       <description>&lt;h3 id=&#34;app--akabrief&#34;&gt;&#xA;  App | AKAbrief&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#app--akabrief&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;AKAbrief allows you to upload PDFs, automatically summarize key information, and get answers in seconds.&lt;/p&gt;&#xA;&lt;p&gt;It streamlines tasks that would otherwise take hours, 👉 especially for digitalized documents not compatible with general AI platforms.&lt;/p&gt;&#xA;&lt;p&gt;Check out the AKABRIEF app by clicking on the image.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LLM Project | AKAquery</title>
-      <link>//localhost:1313/posts/akaquery/</link>
+      <link>http://localhost:1313/posts/akaquery/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/akaquery/</guid>
+      <guid>http://localhost:1313/posts/akaquery/</guid>
       <description>&lt;h1 id=&#34;app--akaquery&#34;&gt;&#xA;  App | AKAquery&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#app--akaquery&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;AKAquery is designed to improve your efficiency in navigating regulatory frameworks like #IFRS17 and hashtag#SolvencyII.&lt;/p&gt;&#xA;&lt;p&gt;It provides precise answers to legislative questions — such as identifying which LoB or segment falls under unemployment coverage.&lt;/p&gt;&#xA;&lt;p&gt;Check out the AKAquery app by clicking on the image.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ML Project | Credit Default Model</title>
-      <link>//localhost:1313/posts/creditdefaultmodel/</link>
+      <link>http://localhost:1313/posts/creditdefaultmodel/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/creditdefaultmodel/</guid>
+      <guid>http://localhost:1313/posts/creditdefaultmodel/</guid>
       <description>&lt;h4 id=&#34;klarna--supervised-learning-case&#34;&gt;&#xA;  Klarna | Supervised Learning Case&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#klarna--supervised-learning-case&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;The goal is to predict clients&amp;rsquo; probability of default based on their historical purchase patterns at klarna.&lt;/p&gt;&#xA;&lt;p&gt;The final prediction will be displayed on a web interface, simply click on the image to view it.&lt;/p&gt;&#xA;&lt;p&gt;For more details about the project, consult the &lt;a href=&#34;https://onedrive.live.com/edit?id=5915EEDC5785030D!15658&amp;amp;resid=5915EEDC5785030D!15658&amp;amp;ithint=file%2Cpptx&amp;amp;authkey=!AI5YequnobdAjeo&amp;amp;wdo=2&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DP Project | Solar Forecasting Project</title>
-      <link>//localhost:1313/posts/solarforecasting/</link>
+      <link>http://localhost:1313/posts/solarforecasting/</link>
       <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/solarforecasting/</guid>
+      <guid>http://localhost:1313/posts/solarforecasting/</guid>
       <description>&lt;h3 id=&#34;solar-forecasting&#34;&gt;&#xA;  Solar Forecasting&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#solar-forecasting&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;We have created a deep-learning model for solar irradiance forecasting. According to the literature, the hybrid model of CNN-LSTM offers the best results, therefore, we implemented this combination, and we were able to produce predictions from 15 min up to 1 hour. Further details are on GitHub.&lt;/p&gt;&#xA;&#xA;&lt;h3 id=&#34;contributions-&#34;&gt;&#xA;  Contributions 💪&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#contributions-&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Feature analysis&lt;/em&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solar Azimuth and Solar Zenith features analysis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Model development&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I helped along with other colleagues to create and develop the model&lt;/li&gt;&#xA;&lt;li&gt;We have a hybrid model of CNN-LSTM running on the Google Cloud Platform - Cloud Storage.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;You can watch the project’s presentation, 22’11’’ &lt;a href=&#34;https://www.youtube.com/watch?v=zlm2cowtn_c&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Additionally, you can the slides presentation is available &lt;a href=&#34;https://www.youtube.com/watch?v=zlm2cowtn_c&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

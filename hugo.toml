@@ -1,7 +1,7 @@
 baseURL = "https://emilio1030.github.io/"
 languageCode = 'en-us'
 title = 'Emílio Aguiar'
-theme = 'hugo-coder.'
+theme = 'hugo-coder'
 
 defaultContentLanguage = "en"
 paginate = 20
