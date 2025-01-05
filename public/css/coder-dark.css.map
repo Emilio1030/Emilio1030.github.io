@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "coder-dark.css",
-	"sourceRoot": "/Users/emilioaguiar/code/Emilio1030/emilio-web/emilio-web",
+	"sourceRoot": "/Users/emilioaguiar/code/Emilio1030/emilio-web",
 	"sources": [
 		"assets/scss/coder-dark.scss",
 		"assets/scss/_variables.scss",
