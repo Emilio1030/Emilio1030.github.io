@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Emílio Aguiar</title><link>/posts/</link><description>Recent content in Posts on Emílio Aguiar</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>LLM Project | AKAbrief</title><link>/posts/akabrief/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>/posts/akabrief/</guid><description>&lt;h3 id="app--akabrief">
+ App | AKAbrief
+ &lt;a class="heading-link" href="#app--akabrief">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>AKAbrief allows you to upload PDFs, automatically summarize key information, and get answers in seconds.&lt;/p>
+&lt;p>It streamlines tasks that would otherwise take hours, 👉 especially for digitalized documents not compatible with general AI platforms.&lt;/p>
+&lt;p>Check out the AKABRIEF app by clicking on the image.&lt;/p></description></item><item><title>LLM Project | AKAquery</title><link>/posts/akaquery/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><guid>/posts/akaquery/</guid><description>&lt;h1 id="app--akaquery">
+ App | AKAquery
+ &lt;a class="heading-link" href="#app--akaquery">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>AKAquery is designed to improve your efficiency in navigating regulatory frameworks like #IFRS17 and hashtag#SolvencyII.&lt;/p>
+&lt;p>It provides precise answers to legislative questions — such as identifying which LoB or segment falls under unemployment coverage.&lt;/p>
+&lt;p>Check out the AKAquery app by clicking on the image.&lt;/p></description></item><item><title>ML Project | Credit Default Model</title><link>/posts/creditdefaultmodel/</link><pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate><guid>/posts/creditdefaultmodel/</guid><description>&lt;h4 id="klarna--supervised-learning-case">
+ Klarna | Supervised Learning Case
+ &lt;a class="heading-link" href="#klarna--supervised-learning-case">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;p>The goal is to predict clients&amp;rsquo; probability of default based on their historical purchase patterns at klarna.&lt;/p>
+&lt;p>The final prediction will be displayed on a web interface, simply click on the image to view it.&lt;/p>
+&lt;p>For more details about the project, consult the &lt;a href="https://onedrive.live.com/edit?id=5915EEDC5785030D!15658&amp;amp;resid=5915EEDC5785030D!15658&amp;amp;ithint=file%2Cpptx&amp;amp;authkey=!AI5YequnobdAjeo&amp;amp;wdo=2" class="external-link" target="_blank" rel="noopener">slides&lt;/a>.&lt;/p></description></item><item><title>DP Project | Solar Forecasting Project</title><link>/posts/solarforecasting/</link><pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate><guid>/posts/solarforecasting/</guid><description>&lt;h3 id="solar-forecasting">
+ Solar Forecasting
+ &lt;a class="heading-link" href="#solar-forecasting">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>We have created a deep-learning model for solar irradiance forecasting. According to the literature, the hybrid model of CNN-LSTM offers the best results, therefore, we implemented this combination, and we were able to produce predictions from 15 min up to 1 hour. Further details are on GitHub.&lt;/p>
+
+&lt;h3 id="contributions-">
+ Contributions 💪
+ &lt;a class="heading-link" href="#contributions-">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>Feature analysis&lt;/em>
+&lt;ul>
+&lt;li>Solar Azimuth and Solar Zenith features analysis&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Model development
+&lt;ul>
+&lt;li>I helped along with other colleagues to create and develop the model&lt;/li>
+&lt;li>We have a hybrid model of CNN-LSTM running on the Google Cloud Platform - Cloud Storage.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>You can watch the project’s presentation, 22’11’’ &lt;a href="https://www.youtube.com/watch?v=zlm2cowtn_c" class="external-link" target="_blank" rel="noopener">here&lt;/a>&lt;/li>
+&lt;li>Additionally, you can the slides presentation is available &lt;a href="https://www.youtube.com/watch?v=zlm2cowtn_c" class="external-link" target="_blank" rel="noopener">here&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

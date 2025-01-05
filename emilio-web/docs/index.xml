@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Emílio Aguiar</title><link>/</link><description>Recent content on Emílio Aguiar</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Education &amp; Certifications</title><link>/education/</link><pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate><guid>/education/</guid><description>&lt;h2 id="education">
+ Education
+ &lt;a class="heading-link" href="#education">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+
+&lt;h3 id="bootcamp-in-data-science--le-wagon">
+ Bootcamp in Data Science | Le Wagon
+ &lt;a class="heading-link" href="#bootcamp-in-data-science--le-wagon">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>&lt;em>2022&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>The Bootcamp has taught the following subjects, machine learning (supervised &amp;amp; unsupervised learning) and deep learning (&lt;strong>CNN&lt;/strong>, &lt;strong>RNN&lt;/strong> &amp;amp; &lt;strong>NLP&lt;/strong>) model with Python. Collecting and analysing data from &lt;strong>APIs&lt;/strong>, &lt;strong>Jupyter Notebook&lt;/strong>, and &lt;strong>SQL&lt;/strong> (including an introduction to &lt;strong>Google Big Query&lt;/strong> and &lt;strong>Cloud Storage&lt;/strong>).&lt;/li>
+&lt;li>Analytics using packages; &lt;strong>NumPy&lt;/strong>, &lt;strong>Pandas&lt;/strong>, &lt;strong>Seaborn&lt;/strong>, &lt;strong>Matplotlib&lt;/strong>, &lt;strong>Scikit-learn&lt;/strong>, &lt;strong>TensorFlow&lt;/strong> &amp;amp; &lt;strong>Keras&lt;/strong>.&lt;/li>
+&lt;/ul>
+
+&lt;h3 id="masters-in-actuarial-science--university-of-lisbon-iseg">
+ Master’s in Actuarial Science | University of Lisbon, ISEG
+ &lt;a class="heading-link" href="#masters-in-actuarial-science--university-of-lisbon-iseg">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>&lt;em>2016 - 2020&lt;/em>&lt;/p></description></item><item><title>Experience</title><link>/experience/</link><pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate><guid>/experience/</guid><description>&lt;h3 id="insurance-and-pension-funds-supervisory-authority-asf--actuary">
+ Insurance and Pension Funds Supervisory Authority (ASF) | Actuary
+ &lt;a class="heading-link" href="#insurance-and-pension-funds-supervisory-authority-asf--actuary">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>&lt;em>2023/04 - Present&lt;/em>&lt;/p>
+
+&lt;h4 id="responsibilities">
+ Responsibilities
+ &lt;a class="heading-link" href="#responsibilities">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;ul>
+&lt;li>Conducted actuarial analyses for life and non-life insurance companies, ensuring prudent SCR determination to cover market-consistent losses in compliance with Solvency II and IFRS 17 frameworks.
+&lt;ul>
+&lt;li>Developed two productivity-enhancing applications:
+&lt;ul>
+&lt;li>&lt;a href="https://akaquery.streamlit.app/" class="external-link" target="_blank" rel="noopener">AKAquery&lt;/a>: A tool for legislative consultations.&lt;/li>
+&lt;li>&lt;a href="https://akabrief.streamlit.app/" class="external-link" target="_blank" rel="noopener">AKAbrief&lt;/a>: A document summarization platform.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Actively contributed to the IFRS17 financial impact study for Portugal’s insurance sector, ensuring timely project deliveries.&lt;/li>
+&lt;li>Conducted a comprehensive analysis of the expanded contractual limits for renewable term life insurance (ART/TAR), assessing
+the impact on SCR through a thorough examination of assumptions and methodologies.&lt;/li>
+&lt;li>Performed an audit for the Economic Scenario Generator (ESG) to analyze the BE of savings products, focusing on TVOG, and
+shocks (SCRs). Developed a Python-based model to validate the BE cash flows, ensuring the ESG methodology, calibration
+process, and results were market-consistent, risk-neutral, and aligned with the risk-free interest rate term structure.&lt;/li>
+&lt;/ul>
+
+&lt;h3 id="lusitania-vida--actuary-associated">
+ Lusitania Vida | Actuary Associated
+ &lt;a class="heading-link" href="#lusitania-vida--actuary-associated">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>&lt;em>2021/10 - 2023/04&lt;/em>&lt;/p></description></item><item><title>LLM Project | AKAbrief</title><link>/posts/akabrief/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>/posts/akabrief/</guid><description>&lt;h3 id="app--akabrief">
+ App | AKAbrief
+ &lt;a class="heading-link" href="#app--akabrief">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>AKAbrief allows you to upload PDFs, automatically summarize key information, and get answers in seconds.&lt;/p>
+&lt;p>It streamlines tasks that would otherwise take hours, 👉 especially for digitalized documents not compatible with general AI platforms.&lt;/p>
+&lt;p>Check out the AKABRIEF app by clicking on the image.&lt;/p></description></item><item><title>LLM Project | AKAquery</title><link>/posts/akaquery/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><guid>/posts/akaquery/</guid><description>&lt;h1 id="app--akaquery">
+ App | AKAquery
+ &lt;a class="heading-link" href="#app--akaquery">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>AKAquery is designed to improve your efficiency in navigating regulatory frameworks like #IFRS17 and hashtag#SolvencyII.&lt;/p>
+&lt;p>It provides precise answers to legislative questions — such as identifying which LoB or segment falls under unemployment coverage.&lt;/p>
+&lt;p>Check out the AKAquery app by clicking on the image.&lt;/p></description></item><item><title>Interests</title><link>/interests/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>/interests/</guid><description>&lt;p>I enjoy hitting the gym every day and reading about polictics, economics and psychology.&lt;/p>
+&lt;p>Check out my Goodreads page &lt;a href="https://www.goodreads.com/user/show/185718623-emilio-aguiar" class="external-link" target="_blank" rel="noopener">here&lt;/a>&lt;/p></description></item><item><title>ML Project | Credit Default Model</title><link>/posts/creditdefaultmodel/</link><pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate><guid>/posts/creditdefaultmodel/</guid><description>&lt;h4 id="klarna--supervised-learning-case">
+ Klarna | Supervised Learning Case
+ &lt;a class="heading-link" href="#klarna--supervised-learning-case">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;p>The goal is to predict clients&amp;rsquo; probability of default based on their historical purchase patterns at klarna.&lt;/p>
+&lt;p>The final prediction will be displayed on a web interface, simply click on the image to view it.&lt;/p>
+&lt;p>For more details about the project, consult the &lt;a href="https://onedrive.live.com/edit?id=5915EEDC5785030D!15658&amp;amp;resid=5915EEDC5785030D!15658&amp;amp;ithint=file%2Cpptx&amp;amp;authkey=!AI5YequnobdAjeo&amp;amp;wdo=2" class="external-link" target="_blank" rel="noopener">slides&lt;/a>.&lt;/p></description></item><item><title>About</title><link>/about/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;p>I’m an actuary with solid experience in Solvency II, IFRS 17, modelling and developing Data Science projects.&lt;/p>
+&lt;p>I’m passionate about growing into a skilled Data Scientist, aiming to connect actuarial expertise with data-driven solutions.&lt;/p>
+&lt;p>I currently work as an actuary at the Insurance and Pension Funds Supervisory Authority of Portugal (ASF). Over the years, I’ve had the chance to work on a wide range of actuarial projects—from modeling cash flows for Pension Funds to conducting an IFRS 17 impact study in Portugal. These experiences have deepened my industry knowledge and allowed me deliver accurate and well-communicated solutions.&lt;/p></description></item><item><title>DP Project | Solar Forecasting Project</title><link>/posts/solarforecasting/</link><pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate><guid>/posts/solarforecasting/</guid><description>&lt;h3 id="solar-forecasting">
+ Solar Forecasting
+ &lt;a class="heading-link" href="#solar-forecasting">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>We have created a deep-learning model for solar irradiance forecasting. According to the literature, the hybrid model of CNN-LSTM offers the best results, therefore, we implemented this combination, and we were able to produce predictions from 15 min up to 1 hour. Further details are on GitHub.&lt;/p>
+
+&lt;h3 id="contributions-">
+ Contributions 💪
+ &lt;a class="heading-link" href="#contributions-">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>Feature analysis&lt;/em>
+&lt;ul>
+&lt;li>Solar Azimuth and Solar Zenith features analysis&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Model development
+&lt;ul>
+&lt;li>I helped along with other colleagues to create and develop the model&lt;/li>
+&lt;li>We have a hybrid model of CNN-LSTM running on the Google Cloud Platform - Cloud Storage.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>You can watch the project’s presentation, 22’11’’ &lt;a href="https://www.youtube.com/watch?v=zlm2cowtn_c" class="external-link" target="_blank" rel="noopener">here&lt;/a>&lt;/li>
+&lt;li>Additionally, you can the slides presentation is available &lt;a href="https://www.youtube.com/watch?v=zlm2cowtn_c" class="external-link" target="_blank" rel="noopener">here&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title/><link>/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/contact/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted --></description></item></channel></rss>
