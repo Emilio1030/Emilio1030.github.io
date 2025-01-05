@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emílio Aguiar</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Emílio Aguiar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Education &amp; Certifications</title>
-      <link>//localhost:1313/education/</link>
+      <link>http://localhost:1313/education/</link>
       <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/education/</guid>
+      <guid>http://localhost:1313/education/</guid>
       <description>&lt;h2 id=&#34;education&#34;&gt;&#xA;  Education&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#education&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h3 id=&#34;bootcamp-in-data-science--le-wagon&#34;&gt;&#xA;  Bootcamp in Data Science | Le Wagon&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#bootcamp-in-data-science--le-wagon&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2022&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Bootcamp has taught the following subjects, machine learning (supervised &amp;amp; unsupervised learning) and deep learning (&lt;strong&gt;CNN&lt;/strong&gt;, &lt;strong&gt;RNN&lt;/strong&gt; &amp;amp; &lt;strong&gt;NLP&lt;/strong&gt;) model with Python. Collecting and analysing data from &lt;strong&gt;APIs&lt;/strong&gt;, &lt;strong&gt;Jupyter Notebook&lt;/strong&gt;, and &lt;strong&gt;SQL&lt;/strong&gt; (including an introduction to &lt;strong&gt;Google Big Query&lt;/strong&gt; and &lt;strong&gt;Cloud Storage&lt;/strong&gt;).&lt;/li&gt;&#xA;&lt;li&gt;Analytics using packages; &lt;strong&gt;NumPy&lt;/strong&gt;, &lt;strong&gt;Pandas&lt;/strong&gt;, &lt;strong&gt;Seaborn&lt;/strong&gt;, &lt;strong&gt;Matplotlib&lt;/strong&gt;, &lt;strong&gt;Scikit-learn&lt;/strong&gt;, &lt;strong&gt;TensorFlow&lt;/strong&gt; &amp;amp; &lt;strong&gt;Keras&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h3 id=&#34;masters-in-actuarial-science--university-of-lisbon-iseg&#34;&gt;&#xA;  Master’s in Actuarial Science | University of Lisbon, ISEG&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#masters-in-actuarial-science--university-of-lisbon-iseg&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2016 - 2020&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Experience</title>
-      <link>//localhost:1313/experience/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/experience/</guid>
+      <guid>http://localhost:1313/experience/</guid>
       <description>&lt;h3 id=&#34;insurance-and-pension-funds-supervisory-authority-asf--actuary&#34;&gt;&#xA;  Insurance and Pension Funds Supervisory Authority (ASF) | Actuary&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#insurance-and-pension-funds-supervisory-authority-asf--actuary&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2023/04 - Present&lt;/em&gt;&lt;/p&gt;&#xA;&#xA;&lt;h4 id=&#34;responsibilities&#34;&gt;&#xA;  Responsibilities&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#responsibilities&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Conducted actuarial analyses for life and non-life insurance companies, ensuring prudent SCR determination to cover market-consistent losses in compliance with Solvency II and IFRS 17 frameworks.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed two productivity-enhancing applications:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://akaquery.streamlit.app/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AKAquery&lt;/a&gt;: A tool for legislative consultations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://akabrief.streamlit.app/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AKAbrief&lt;/a&gt;: A document summarization platform.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Actively contributed to the IFRS17 financial impact study for Portugal’s insurance sector, ensuring timely project deliveries.&lt;/li&gt;&#xA;&lt;li&gt;Conducted a comprehensive analysis of the expanded contractual limits for renewable term life insurance (ART/TAR), assessing&#xA;the impact on SCR through a thorough examination of assumptions and methodologies.&lt;/li&gt;&#xA;&lt;li&gt;Performed an audit for the Economic Scenario Generator (ESG) to analyze the BE of savings products, focusing on TVOG, and&#xA;shocks (SCRs). Developed a Python-based model to validate the BE cash flows, ensuring the ESG methodology, calibration&#xA;process, and results were market-consistent, risk-neutral, and aligned with the risk-free interest rate term structure.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h3 id=&#34;lusitania-vida--actuary-associated&#34;&gt;&#xA;  Lusitania Vida | Actuary Associated&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#lusitania-vida--actuary-associated&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2021/10 - 2023/04&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LLM Project | AKAbrief</title>
-      <link>//localhost:1313/posts/akabrief/</link>
+      <link>http://localhost:1313/posts/akabrief/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/akabrief/</guid>
+      <guid>http://localhost:1313/posts/akabrief/</guid>
       <description>&lt;h3 id=&#34;app--akabrief&#34;&gt;&#xA;  App | AKAbrief&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#app--akabrief&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;AKAbrief allows you to upload PDFs, automatically summarize key information, and get answers in seconds.&lt;/p&gt;&#xA;&lt;p&gt;It streamlines tasks that would otherwise take hours, 👉 especially for digitalized documents not compatible with general AI platforms.&lt;/p&gt;&#xA;&lt;p&gt;Check out the AKABRIEF app by clicking on the image.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LLM Project | AKAquery</title>
-      <link>//localhost:1313/posts/akaquery/</link>
+      <link>http://localhost:1313/posts/akaquery/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/akaquery/</guid>
+      <guid>http://localhost:1313/posts/akaquery/</guid>
       <description>&lt;h1 id=&#34;app--akaquery&#34;&gt;&#xA;  App | AKAquery&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#app--akaquery&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;AKAquery is designed to improve your efficiency in navigating regulatory frameworks like #IFRS17 and hashtag#SolvencyII.&lt;/p&gt;&#xA;&lt;p&gt;It provides precise answers to legislative questions — such as identifying which LoB or segment falls under unemployment coverage.&lt;/p&gt;&#xA;&lt;p&gt;Check out the AKAquery app by clicking on the image.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interests</title>
-      <link>//localhost:1313/interests/</link>
+      <link>http://localhost:1313/interests/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/interests/</guid>
+      <guid>http://localhost:1313/interests/</guid>
       <description>&lt;p&gt;I enjoy hitting the gym every day and reading about polictics, economics and psychology.&lt;/p&gt;&#xA;&lt;p&gt;Check out my Goodreads page &lt;a href=&#34;https://www.goodreads.com/user/show/185718623-emilio-aguiar&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ML Project | Credit Default Model</title>
-      <link>//localhost:1313/posts/creditdefaultmodel/</link>
+      <link>http://localhost:1313/posts/creditdefaultmodel/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/creditdefaultmodel/</guid>
+      <guid>http://localhost:1313/posts/creditdefaultmodel/</guid>
       <description>&lt;h4 id=&#34;klarna--supervised-learning-case&#34;&gt;&#xA;  Klarna | Supervised Learning Case&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#klarna--supervised-learning-case&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;The goal is to predict clients&amp;rsquo; probability of default based on their historical purchase patterns at klarna.&lt;/p&gt;&#xA;&lt;p&gt;The final prediction will be displayed on a web interface, simply click on the image to view it.&lt;/p&gt;&#xA;&lt;p&gt;For more details about the project, consult the &lt;a href=&#34;https://onedrive.live.com/edit?id=5915EEDC5785030D!15658&amp;amp;resid=5915EEDC5785030D!15658&amp;amp;ithint=file%2Cpptx&amp;amp;authkey=!AI5YequnobdAjeo&amp;amp;wdo=2&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;I’m an actuary with solid experience in Solvency II, IFRS 17, modelling and developing Data Science projects.&lt;/p&gt;&#xA;&lt;p&gt;I’m passionate about growing into a skilled Data Scientist, aiming to connect actuarial expertise with data-driven solutions.&lt;/p&gt;&#xA;&lt;p&gt;I currently work as an actuary at the Insurance and Pension Funds Supervisory Authority of Portugal (ASF). Over the years, I’ve had the chance to work on a wide range of actuarial projects—from modeling cash flows for Pension Funds to conducting an IFRS 17 impact study in Portugal. These experiences have deepened my industry knowledge and allowed me deliver accurate and well-communicated solutions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DP Project | Solar Forecasting Project</title>
-      <link>//localhost:1313/posts/solarforecasting/</link>
+      <link>http://localhost:1313/posts/solarforecasting/</link>
       <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/solarforecasting/</guid>
+      <guid>http://localhost:1313/posts/solarforecasting/</guid>
       <description>&lt;h3 id=&#34;solar-forecasting&#34;&gt;&#xA;  Solar Forecasting&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#solar-forecasting&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;We have created a deep-learning model for solar irradiance forecasting. According to the literature, the hybrid model of CNN-LSTM offers the best results, therefore, we implemented this combination, and we were able to produce predictions from 15 min up to 1 hour. Further details are on GitHub.&lt;/p&gt;&#xA;&#xA;&lt;h3 id=&#34;contributions-&#34;&gt;&#xA;  Contributions 💪&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#contributions-&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Feature analysis&lt;/em&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solar Azimuth and Solar Zenith features analysis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Model development&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I helped along with other colleagues to create and develop the model&lt;/li&gt;&#xA;&lt;li&gt;We have a hybrid model of CNN-LSTM running on the Google Cloud Platform - Cloud Storage.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;You can watch the project’s presentation, 22’11’’ &lt;a href=&#34;https://www.youtube.com/watch?v=zlm2cowtn_c&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Additionally, you can the slides presentation is available &lt;a href=&#34;https://www.youtube.com/watch?v=zlm2cowtn_c&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
