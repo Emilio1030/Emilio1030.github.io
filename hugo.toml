@@ -15,8 +15,6 @@ pagerSize = 10
 
 [params]
 isServer = true
-[permalinks]
-post = "/posts/:slug/"
 
 
 author = "Emílio Aguiar"
@@ -78,6 +76,8 @@ url = "experience/"
 name = "Education & Certifications"
 weight = 3
 url = "education/"
+[permalinks]
+post = "/posts/:slug/"
 [[menu.main]]
 name = "Projects"
 weight = 4
