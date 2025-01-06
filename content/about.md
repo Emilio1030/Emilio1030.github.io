@@ -13,6 +13,6 @@ I currently work as an actuary at the Insurance and Pension Funds Supervisory Au
 
 Improving my communication skills is also a key goal for me, and I’ve been actively working on it.
 
-I’ve been working on personal projects, which you can check out in the Projects section of this webpage. These include Deep Learning and Machine Learning models, as well as two LLM projects targed to increase my dailyt efficiency at work. This year, I plan to focus on developing more Data Science projects about the actuarial field.
+I’ve been working on personal projects, which you can check out in the Projects section of this webpage. These include Deep Learning and Machine Learning models, as well as two LLM projects targed to increase my daily efficiency at work. This year, I plan to focus on developing more Data Science projects about the actuarial field.
 
 Away from desk, I enjoy reading (check out my Goodreads page! [here](https://www.goodreads.com/user/show/185718623-emilio-aguiar)) and hitting the gym.
