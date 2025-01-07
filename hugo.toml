@@ -38,7 +38,7 @@ customCSS = []
 customSCSS = []
 # Custom JS
 customJS = ["js/custom.js"]
-commit = "https://github.com/Emilio1030/emilio1030/tree"
+commit = "https://github.com/Emilio1030"
 
 [taxonomies]
 category = "categories"
