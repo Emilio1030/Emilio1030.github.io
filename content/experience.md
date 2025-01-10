@@ -3,7 +3,7 @@ title = "Experience"
 date = 2024-12-26
 author = "Emílio Aguiar"
 +++
-### Insurance and Pension Funds Supervisory Authority (ASF) | Actuary
+### Actuary | Insurance and Pension Funds Supervisory Authority
 _2023/04 - Present_
 
 #### Responsibilities
@@ -18,7 +18,7 @@ the impact on SCR through a thorough examination of assumptions and methodologie
 shocks (SCRs). Developed a Python-based model to validate the BE cash flows, ensuring the ESG methodology, calibration
 process, and results were market-consistent, risk-neutral, and aligned with the risk-free interest rate term structure.
 
-### Lusitania Vida | Actuary Associated
+### Actuary Associated | Lusitania Vida
 _2021/10 - 2023/04_
 
 #### Responsibilities
@@ -27,7 +27,7 @@ _2021/10 - 2023/04_
 an UL product launch, including profit test, and development of KID (DIF) compliant with PRIIPs legislation.
 
 
-### Willis Towers Watson | Actuary Associated
+### Actuary Associated | Willis Towers Watson
 _2019/03 - 2021/10_
 
 #### Responsibilities
@@ -38,8 +38,11 @@ pension fund valuations. Achieved exceptional outcomes, exceeding expectations i
 - Therefore, took on new challenges by assuming additional responsibilities such as mentoring new team members, and managing
 timelines for complex projects that involved multiple stages and stakeholders.
 
-#### Tools
-- **Programming Languages:** Python, R, VBA
-- **MS Office:** Word, Excel PowerPoint
+---
+
+#### Additional
+- **Programming Languages:** Python
+- **MS Office:** Word, Excel & PowerPoint
+- **Languages:** English & Portuguese
 
 My CV is available [here](https://storage.cloud.google.com/resume_emilio/resume/EmilioAguiar).
