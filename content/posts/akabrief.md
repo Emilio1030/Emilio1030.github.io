@@ -13,4 +13,4 @@ AKAbrief allows you to upload PDFs, automatically summarize key information, and
 
 It streamlines tasks that would otherwise take hours, 👉 especially for digitalized documents not compatible with general AI platforms.
 
-Check out the AKABRIEF app by clicking on the image.
+Check out the AKAbrief app by clicking on the image.
